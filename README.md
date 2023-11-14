@@ -4,7 +4,7 @@
 
 ### Olá, Eu sou Alexandre 👋
 
-Eu sou um Software Development Engineer in Test(aka Senior Test Engineer | QA Engineer | Test Automation Quality Engineer) que adoro tecnologia. Eu tenho trabalhado com teste de software desde 2005.
+Eu sou um Software Development Engineer in Test(aka Senior Test Engineer | QA Engineer | Test Automation Quality Engineer) que adora tecnologia. Eu tenho trabalhado com teste de software desde 2005.
 
 - 🔭 Atualmente estou trabalhando com projetos que envolvem Cypress e Typescript (UI e API), mas ja trabalhei com C#, Java e Selenium.
 - 📫 Como você pode me contatar:
