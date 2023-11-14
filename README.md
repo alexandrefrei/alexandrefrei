@@ -1,7 +1,8 @@
 
 ---
 🇧🇷
-Olá, Eu sou Alexandre 👋
+
+### Olá, Eu sou Alexandre 👋
 
 Eu sou um Software Development Engineer in Test(aka Senior Test Engineer | QA Engineer | Test Automation Quality Engineer) que adoro tecnologia. Eu tenho trabalhado com teste de software desde 2005.
 
@@ -12,8 +13,8 @@ Eu sou um Software Development Engineer in Test(aka Senior Test Engineer | QA En
   <a href="https://www.linkedin.com/in/alfreitag/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
 
----
 
+---
 🇺🇸
 
 ### Hi there, I'm Alexandre 👋
